@@ -14,19 +14,19 @@ description: "personal blog about daily life and knowledge"
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/peaktimes/peaktimes.github.io/blob/d8d0d1355a744bc17117c8c96e377ea85d992c8b/images/huahua.jpg
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
+favicon: https://github.com/peaktimes/peaktimes.github.io/blob/94424ee8e0839c74ca49cfb92e71f1d74e41c5c6/images/favicon.ico
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: 首页
+  - name: Home
     url: /
-  - name: 关于
+  - name: About me
     url: /about
-  - name: 归档
+  - name: Archive
     url: /archive
-  - name: 标签
+  - name: Tag
     url: /tags
 
 # Pagination
